@@ -1,0 +1,5 @@
+{
+  "name": "Jai Bhavani Dhaba",
+  "description": "Authentic Marathi Dhaba in Dhaiwadi, Satara. Experience the power of authentic taste with our Veg and Non-Veg specials.",
+  "requestFramePermissions": ["geolocation"]
+}
