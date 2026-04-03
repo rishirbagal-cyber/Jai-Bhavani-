@@ -108,8 +108,8 @@ export const translations: Record<Language, TranslationSchema> = {
           { name: "आख्खा मसूर", desc: "कोल्हापुरी पद्धतीचा आख्खा मसूर", price: "१२०" }
         ],
         nonveg_thali: [
-          { name: "स्पेशल मटण थाळी (Unlimited)", desc: "मटण फ्राय, तांबडा-पांढरा रस्सा, अंडा मसाला, आलणी, जीरा राईस, सोलकढी, चपाती/भाकरी", price: "२७०" },
-          { name: "स्पेशल चिकन थाळी (Unlimited)", desc: "चिकन फ्राय, तांबडा-पांढरा रस्सा, अंडा मसाला, आलणी, जीरा राईस, चपाती/भाकरी", price: "२००" }
+          { name: "स्पेशल मटण थाळी (Unlimited)", desc: "मटण फ्राय, तांबडा-पांढरा रस्सा, अंडा मसाला, आलणी, जीरा राईस, सोलकढी, चपाती/भाकरी", price: "२८०" },
+          { name: "स्पेशल चिकन थाळी (Unlimited)", desc: "चिकन फ्राय, तांबडा-पांढरा रस्सा, अंडा मसाला, आलणी, जीरा राईस, चपाती/भाकरी", price: "२२०" }
         ],
         nonveg: [
           { name: "चिकन मसाला", desc: "चिकनची मसालेदार रस्सा भाजी", price: "११०" },
@@ -196,8 +196,8 @@ export const translations: Record<Language, TranslationSchema> = {
           { name: "आख्खा मसूर", desc: "मसालेदार आख्खा मसूर", price: "120" }
         ],
         nonveg_thali: [
-          { name: "स्पेशल मटन थाली (Unlimited)", desc: "मटन फ्राई, तांबडा-पांढरा रस्सा, अंडा मसाला, आलणी, जीरा राईस, सोलकढ़ी, चपाती/भाकरी", price: "270" },
-          { name: "स्पेशल चिकन थाली (Unlimited)", desc: "चिकन फ्राई, तांबडा-पांढरा रस्सा, अंडा मसाला, आलणी, जीरा राईस, चपाती/भाकरी", price: "200" }
+          { name: "स्पेशल मटन थाली (Unlimited)", desc: "मटन फ्राई, तांबडा-पांढरा रस्सा, अंडा मसाला, आलणी, जीरा राईस, सोलकढ़ी, चपाती/भाकरी", price: "280" },
+          { name: "स्पेशल चिकन थाली (Unlimited)", desc: "चिकन फ्राई, तांबडा-पांढरा रस्सा, अंडा मसाला, आलणी, जीरा राईस, चपाती/भाकरी", price: "220" }
         ],
         nonveg: [
           { name: "चिकन मसाला", desc: "मसालेदार चिकन करी", price: "110" },
@@ -284,8 +284,8 @@ export const translations: Record<Language, TranslationSchema> = {
           { name: "Akkha Masoor", desc: "Whole red lentils in Kolhapuri style", price: "120" }
         ],
         nonveg_thali: [
-          { name: "Special Mutton Thali (Unlimited)", desc: "Mutton Fry, Tambada-Pandhara Rassa, Egg Masala, Aalani, Jeera Rice, Solkadhi, Chapati/Bhakri", price: "270" },
-          { name: "Special Chicken Thali (Unlimited)", desc: "Chicken Fry, Tambada-Pandhara Rassa, Egg Masala, Aalani, Jeera Rice, Chapati/Bhakri", price: "200" }
+          { name: "Special Mutton Thali (Unlimited)", desc: "Mutton Fry, Tambada-Pandhara Rassa, Egg Masala, Aalani, Jeera Rice, Solkadhi, Chapati/Bhakri", price: "280" },
+          { name: "Special Chicken Thali (Unlimited)", desc: "Chicken Fry, Tambada-Pandhara Rassa, Egg Masala, Aalani, Jeera Rice, Chapati/Bhakri", price: "220" }
         ],
         nonveg: [
           { name: "Chicken Masala", desc: "Spicy chicken curry", price: "110" },
