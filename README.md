@@ -1,20 +1,56 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+JAI BHAVANI – Indian Dhaba Web App 🇮🇳🔥
 
-# Run and deploy your AI Studio app
+“Jahan swaad mile ghar jaisa… aur experience mile dhaba jaisa!” 🍲💛
 
-This contains everything you need to run your app locally.
+JAI BHAVANI is a modern restaurant web app inspired by the raw, authentic vibe of Indian dhabas 🚚🍛 — bringing together food, technology, and simplicity into one smooth digital experience.
 
-View your app in AI Studio: https://ai.studio/apps/299c4322-ff9e-4a89-8483-fcf557a5245a
+🚀 What’s this app about?
 
-## Run Locally
+Imagine this 👇
 
-**Prerequisites:**  Node.js
+You’re hungry 😋
+You open the app 📱
+You explore delicious food 🍗
+Book a table 🪑 OR order online 🛵
+Sit back & relax 😌
 
+That’s JAI BHAVANI.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🌟 Features (Why this is cool 😎)
+👤 For Users
+🔐 Login / Signup (secure JWT auth)
+🍽️ Browse Menu (clean + categorized)
+🪑 Book a Table (no waiting!)
+🛵 Order Food Online (with cart system 🛒)
+📦 Track Orders (live status updates)
+📅 My Bookings (all in one place)
+🧾 My Orders (history + details)
+🛠️ For Admin (Power Mode 💪)
+📊 Dashboard Stats
+Orders Today 📦
+Bookings Today 📅
+Revenue Today 💰
+🍔 Menu Control
+Add / Edit / Delete items ✏️
+Toggle availability ✅❌
+📅 Manage Bookings
+📦 Manage Orders
+🧑‍💻 Tech Stack (Modern + Fast ⚡)
+Frontend
+⚛️ React.js (Vite) → super fast builds ⚡
+🎨 Tailwind CSS → clean UI
+🔁 React Router v6 → smooth navigation
+📡 Axios → API calls
+🔔 react-hot-toast → beautiful notifications
+🎨 Design Vibes 🎯
+🟠 Saffron → #FF6B00
+🔥 Deep Orange → #E65100
+🤍 Cream → #FFF8E7
+🟢 Green → #2E7D32
+
+Fonts:
+
+✍️ Poppins (clean text)
+🏛️ Playfair Display (royal headings)
+
+👉 Overall feel: Desi + Premium + Modern 😍
